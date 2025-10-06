@@ -1,0 +1,1 @@
+# Make.com scenarios placeholder
